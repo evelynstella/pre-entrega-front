@@ -1,9 +1,11 @@
 🎮 Pixelia — Tienda Gamer | Proyecto Curso
 
 Pixelia es una tienda online de videojuegos desarrollada como proyecto del curso de Desarrollo Web.
+
 El sitio está construido con HTML5, CSS3, Flexbox y Grid, aplicando buenas prácticas de maquetación y diseño responsive.
 
 🚀 Tecnologías utilizadas
+
 HTML5 — estructura semántica
 
 CSS3 — estilos, sombras, animaciones
