@@ -19,24 +19,15 @@ Media Queries — adaptación a celulares y tablets
 📂 Estructura del proyecto
 
 PROYECTO CURSO/
+
 │── img/                # Imágenes del sitio
-
 │── pages/              # Páginas internas
-
 │   ├── carrito.html
-
 │   ├── contacto.html
-
 │   ├── nosotros.html
-
 │   └── tienda.html
-
 │── style/              # Hojas de estilo
-
 │   ├── contacto.css
-
 │   └── index.css
-
 │── index.html          # Página principal
-
 └── README.md           # Documentación del proyecto
