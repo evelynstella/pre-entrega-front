@@ -1,7 +1,16 @@
 PROYECTO PIXELIA <3
 
-Este proyecto es una página web e-commerce básica desarrollada como parte de un curso de Front-End. La página está estructurada con HTML semántico y utiliza las etiquetas <header>,<nav>,<main>, y <footer> para organizar el contenido , utilizando CSS para darle estilo a esta misma.
+Pixelia fue mi primer proyecto web completo y lo hice para la pre-entrega del curso de Front-End. La idea surgió incluso antes de empezar a programar, porque en la primera clase ya había anotado en las notas de mi teléfono cómo quería que fuera la página, qué estética iba a tener y más o menos qué quería hacer. Al final decidí hacer una tienda de juegos digitales para PlayStation 4, PlayStation 5 y Nintendo Switch.
 
-|En la primera clase comence con el armado del proyecto en las notas de mi telefono , planeando la estetica que queria para mi pagina y de que queria mas o menos que sea. Termine decidiendome por una pagina donde se venden juegos de la play station 4 y 5 ,y  de la nintendo switch.
+Lo primero que hice fue toda la parte de HTML, ya que en ese momento todavía no habíamos visto mucho CSS. Armé la estructura semántica usando etiquetas como <header>, <nav>, <main>, <section> y <footer>, siguiendo la consigna. Organicé todo pensando en cómo quería que se vea después. En el header puse el logo, la navegación y el carrito, después hice el flyer principal, las secciones de ofertas, juegos nuevos y reseñas, y al final el footer. También creé una página de contacto con un formulario, aunque todavía no estaba conectado (además de las otras páginas del navegador aunque no trabaje en esas por ahora).
 
-|A partir de la segunda clase comence a armar el inicio poco a poco con ayuda del material, creando la parte del navegador 
+Después pasé a CSS y ahí fue donde más me costó al principio, porque se me empezaba a romper las tarjetas o la parte del footer porque no entendía bien como funcionaba la parte de especifidad, tuve que pedirle a la inteligencia artificial (copilot) que me explicara varias veces porque se rompia y como lo podia solucionar. Cuando empece a entender ahi agregué colores, tamaños de texto, márgenes, paddings y fondos. También agregué una imagen de fondo en el flyer para cumplir con la parte de background que pedía la consigna. Durante esa etapa tuve varios errores, como imágenes deformadas, textos desalineados o secciones demasiado juntas, pero fui corrigiendo todo mientras practicaba.
+
+Más adelante, cuando vimos Flexbox, Grid y Media Queries, pude mejorar muchísimo el proyecto. La sección de ofertas y juegos nuevos la hice con Flexbox para acomodar las cards , mientras que las reseñas las organicé con Grid como pedía la consigna. Ayudándome del material de la pre-entrega ajusté la página de contacto para celular y agregué un menú hamburguesa para pantallas pequeñas (y le pedí ayuda a la ia para las otras partes ya que me había quedado un poco flojo)
+
+Con respecto a la parte de contacto , copie lo mismo que había hecho en la página del index con el header y el footer , y solo agregue la parte del formulario , en este conecté los datos con Formspree para que funcione correctamente y luego pase a la parte de css donde ajuste el tamaño del formulario y su posición además del su color y el margen.
+
+Cuando terminé todo, subí el proyecto a github para poder entregarlo en el aula virtual.
+En general, siento que Pixelia quedo bastante bien pero que se puede mejorar todavía más , no le pude meter el tiempo que me habría gustado por una cuestión de que tenia estudiar para parciales en la facu.
+
+Proximamente me gustaría solucionar algunas partes de la página, ya que note varios errores , también me gustaría agregar tipografías para la pagina y el icono de la pagina porque tampoco tuve tiempo. También agregar mas cards en la parte de ofertas ,juegos nuevos y reseñas , ya que solo hice una en cada sección. Pero bueno , desde ya muchas gracias, espero su devolución.
